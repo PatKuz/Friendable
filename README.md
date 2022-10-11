@@ -43,4 +43,10 @@ The no strings attached way to meet new people.
 - We would also like to refine our clustering algorithm and questionnaire to get even more refined and accurate results.
 - We also were not able to publicly host this project in the allotted time, which is something that we definitely want to do in the future.
 
+# UPDATE:
+Friendable! claimed the following prizes at BostonHacks 2021:
+- BostonHacks Best Community Track Hack
+- Best Use of Google Cloud - Use any Google Cloud product
+- Best Use of Twilio API
+
 
